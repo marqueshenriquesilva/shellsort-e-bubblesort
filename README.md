@@ -1,4 +1,4 @@
-# Comparação entre Shellsort e Bubblesort
+# Comparação entre ShellSort e BubbleSort
 > Comparação temporal entre os algoritmos de ordenação ShellSort e BubbleSort
 
 __Observações:__
